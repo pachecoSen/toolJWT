@@ -1,0 +1,32 @@
+{
+  "name": "tooljwt",
+  "version": "0.0.1",
+  "description": "Herramienta para libreria jsonwebtoken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pachecoSen/toolJWT.git"
+  },
+  "keywords": [
+    "jsonwebtoken",
+    "tooljwt",
+    "tool",
+    "jwt"
+  ],
+  "author": "Ignacio Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pachecoSen/toolJWT/issues"
+  },
+  "homepage": "https://github.com/pachecoSen/toolJWT#readme",
+  "dependencies": {
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}

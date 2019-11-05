@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+#Espacios de trabajo
+*.code-workspace
+
+#npm extras
+package-lock.json
